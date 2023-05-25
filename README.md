@@ -28,9 +28,9 @@ NOTE: Find the Jupyer Notebook with code in the folders.
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-777BB4?style=for-the-badge&logo=Matplotlib&logoColor=white)
 
 ## 📋 Tasks Performed
-* Data Cleaning (Handling Missing Values)
+* Data Cleaning
 * Data Manipulation
-* Data Visualization (Dendograms, Scatter plots with Country clusters)
+* Data Visualization
 * Storytelling using Google Sites. Link: https://sites.google.com/view/data-analytics-assessment/home
 
 ## ✍️ Authors
