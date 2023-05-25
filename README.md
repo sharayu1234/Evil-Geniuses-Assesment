@@ -25,7 +25,7 @@ NOTE: Find the Jupyer Notebook with code in the folders.
 ![Numpy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
 ![](https://img.shields.io/badge/scikitlearn-F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75.svg?style=for-the-badge&logo=Plotly&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Seaborn-777BB4?style=for-the-badge&logo=Seaborn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-777BB4?style=for-the-badge&logo=Matplotlib&logoColor=white)
 
 ## 📋 Tasks Performed
 * Data Cleaning (Handling Missing Values)
